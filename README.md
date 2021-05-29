@@ -4,6 +4,12 @@ This is a group project of Erdős Institute 2021
 
 We are dealing with datasets provided by CoverMyMeds which contain a list of drug claims, date of claims and status of PA requests. We use Logistic and random forest models to predict PA approval rates and use SARIMAX model to forecast monthly PA volume.
 
+## Problem description
+we mainly focus on these three problems:
+1. What drugs are on insurance formulary?
+2. What affects PA approval? How to predict a PA outcome?
+3. How to predict monthly PA volumes using historical data?
+
 
 
 ## Exploratory Data Analysis
