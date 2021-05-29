@@ -4,7 +4,7 @@
 We are dealing with datasets (inside the folder **CoverMyMeds_data**) provided by [CoverMyMeds](https://www.covermymeds.com/main/) which contains a list of drug claims, date of claims and status of PA requests. We use Logistic regression and random forest models to predict PA approval rates and use SARIMAX model to forecast monthly PA volume.
 
 <p align="center">
-<img src="pa.png" alt="PA process" width="400" height="300">
+<img src="pa.png" alt="PA process" width="700">
   </p>
 
 ## Problem description
