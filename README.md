@@ -11,7 +11,7 @@ we mainly focus on these three problems:
 4. How to predict monthly PA volumes using historical data?
 
 ## Exploratory Data Analysis
-**pa_frequency.ipynb** and **Exploratory Data Analysis** are notebooks for exploratory data analysis.
+**pa_frequency.ipynb** and **Exploratory Data Analysis.ipynb** are notebooks for exploratory data analysis.
 We plot the claim approval against insurance companies and drug types to determine the formulary of each insurance company. We plot the PA approval against insurance companies, drug types, rejection codes, doctor’s diagnosis, patient’s medical history and doctor’s contraindication. We plot the time series data of the PA volumes aggregated at the daily and monthly level. The time series exhibits both seasonality and trend. 
 
 ## Predictive Model
