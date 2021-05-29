@@ -10,8 +10,8 @@ We are dealing with datasets provided by CoverMyMeds which contain a list of dru
 **exploratory.ipyb** is a notebook for exploratory data analysis.
 ## Predictive Model
 ### PA approval prediction
-**exploratory.ipyb** is a notebook for PA approval prediction via logistic regression.
-**exploratory.ipyb** is a notebook for PA approval prediction via random forest.
+**Logistic.ipyb** is a notebook for PA approval prediction via logistic regression with fixed combination of company, drug type and rejection code.
+**Logistic regression with time series.ipyb** is a notebook for PA approval prediction via logistic regression .
 ### Time series study
 **exploratory.ipyb** is a notebook for PA volumns prediction via time SARIMAX model.
 
